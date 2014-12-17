@@ -57,7 +57,7 @@ backend (or none!). **You can extend it in pure Ruby classes just fine!**
 
 ## Contributing
 
-1. Fork it ( https://github.com/panorama-ed/attribute_helpers/fork )
+1. Fork it (https://github.com/panorama-ed/attribute_helpers/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -69,4 +69,5 @@ and conform to the Rubocop style specified.** We use
 
 ## License
 
-AttributeHelpers is released under the [MIT License](http://opensource.org/licenses/MIT).
+AttributeHelpers is released under the
+[MIT License](https://github.com/panorama-ed/attribute_helpers/blob/master/LICENSE.txt).
